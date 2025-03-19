@@ -1,0 +1,24 @@
+{
+  "name": "isdi-ts-boot-202502",
+  "version": "1.0.0",
+  "description": "Hello, World!",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "build:dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricartts/isdi-ts-boot-202502.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricartts/isdi-ts-boot-202502/issues"
+  },
+  "homepage": "https://github.com/ricartts/isdi-ts-boot-202502#readme",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
